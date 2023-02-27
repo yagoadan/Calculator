@@ -1,2 +1,2 @@
 # Calculator
-This program will allow you to do maths
+Run the program
